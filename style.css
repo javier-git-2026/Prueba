@@ -1,16 +1,3 @@
-/* ==========================================================================
-   VARIABLES Y CONFIGURACIÓN GLOBAL
-   ================================================================---------- */
-:root {
-    --bg-deep: #0a041a;
-    --neon-pink: #ff0055;
-    --neon-cyan: #00f3ff;
-    --neon-yellow: #ffee00;
-    --neon-purple: #9d00ff;
-    --dark-surface: rgba(18, 10, 38, 0.85);
-    --border-glow: rgba(0, 243, 255, 0.4);
-}
-
 body {
     background-color: var(--bg-deep);
     font-family: 'Montserrat', sans-serif;
